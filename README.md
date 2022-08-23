@@ -12,7 +12,8 @@ Combine a non-invasive 2D and connect it to 3D models in an AR Environment.
 <h2>The Solution</h2>
 
 
-https://user-images.githubusercontent.com/32990384/186063996-3788eeea-932e-4b78-888c-cd59a3f9c1d7.MOV
+https://user-images.githubusercontent.com/32990384/186064151-79364587-3849-4987-99c1-74feb49f5a14.mov
+
 
 
 <h4>System Stack Used:</h4>
