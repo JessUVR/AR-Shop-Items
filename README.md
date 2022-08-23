@@ -15,7 +15,7 @@ Combine a non-invasive 2D and connect it to 3D models in an AR Environment.
 <ul>
   <li>8th Wall Cloud Editor Studio</li>
   <li>Scripted in <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><b>Javascript</b></a></li>
-  <li>AR represention with <a href="https://aframe.io/">A-Frame</a></li>
+  <li>AR represention with <a href="https://aframe.io/"><b>A-Frame</b></a></li>
   <li>Interfacing through SwiperJS</li>
 </ul>
 
