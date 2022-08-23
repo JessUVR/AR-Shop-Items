@@ -11,12 +11,13 @@ Combine a non-invasive 2D and connect it to 3D models in an AR Environment.
 
 <h2>The Solution</h2>
 
-<h3>System Stack Used:</h3>
-
-8th Wall Cloud Editor Studio
-Scripted in Javascript
-AR represention with A-Frame
-Interfacing through SwiperJS
+<h4>System Stack Used:</h4>
+<ul>
+  <li>8th Wall Cloud Editor Studio</li>
+  <li>Scripted in Javascript</li>
+  <li>AR represention with A-Frame</li>
+  <li>Interfacing through SwiperJS</li>
+</ul>
 
 <h2>The Results</h2>
 Ability to navigate through a list of items (3D Models) with information attached (2D Info Slides).
