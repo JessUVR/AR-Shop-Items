@@ -2,8 +2,9 @@
 This experience created with 8th Wall is just a look of, what it in the future could be, a virtual clothing shop, an items shop, or even a restaurant menu!
 
 <img width="1200" alt="AR Shop" src="https://user-images.githubusercontent.com/32990384/186056478-da68c353-037c-4a0f-bb1b-e9f13e10f64c.png">
+<h2></h2>
 
-The Problem
+<h2>The Problem</h2>
 Due to the way businesses display their articles (2D format) many details are lost.
 
 The Challenge
