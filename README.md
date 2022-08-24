@@ -7,7 +7,7 @@ This experience created with 8th Wall is just a look of, what it in the future c
 Due to the way businesses display their articles (2D format) many details are lost.
 
 <h2>The Challenge</h2>
-Combine a non-invasive 2D and connect it to 3D models in an AR Environment.
+Combine a non-invasive 2D UI and connect it to 3D models in an AR Environment.
 
 <h2>The Solution</h2>
 
