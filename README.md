@@ -12,7 +12,7 @@ Combine a non-invasive 2D UI and connect it to 3D models in an AR Environment.
 <h2>The Solution</h2>
 
 
-https://user-images.githubusercontent.com/32990384/186064151-79364587-3849-4987-99c1-74feb49f5a14.mov
+https://user-images.githubusercontent.com/a.mov
 
 
 
