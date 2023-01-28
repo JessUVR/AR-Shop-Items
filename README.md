@@ -27,4 +27,5 @@ https://user-images.githubusercontent.com/32990384/186298709-43552c75-179b-488c-
 Ability to navigate through a list of items (3D Models) with information attached (2D Info Slides).
 
 <h2>The Opportunity</h2>
+
 Give a more immersive, interactive, and enticing experience to customers to increase the buying desire.
